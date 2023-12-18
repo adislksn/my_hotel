@@ -22,6 +22,7 @@ requires = [
     'zope.sqlalchemy',
     'wsgicors',
     'pyramid_jwt',
+    'mysql-connector-python',
 ]
 
 tests_require = [
